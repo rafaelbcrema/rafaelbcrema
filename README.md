@@ -4,7 +4,7 @@ I am fluent in English and Portuguese and always eager to explore new technologi
 improve my coding skills, and take on new challenges.  
 
 I live in Brazil and have a strong passion for solving logical problems and game development.  
-Currently, I am plannign projects in Unity and studying ! .   
+Currently, I am planning projects in Unity and studying ! .   
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
