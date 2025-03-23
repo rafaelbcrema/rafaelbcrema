@@ -8,7 +8,7 @@ Currently, I am planning projects in Unity and studying ! .
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-## ✦ Skills and Technologies  
+## ★ Skills and Technologies  
 
 ### ★ Programming Languages  
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
@@ -18,14 +18,14 @@ Currently, I am planning projects in Unity and studying ! .
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-## ⚡ GitHub Stats  
+## ★ GitHub Stats  
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbcrema&theme=github)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbcrema&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcrema&layout=compact&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcrema&layout=compact&theme=dark)  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ## ★ Contact  
-✉ **Email:** rafael.crema333@gmail.com 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/rafaelbcrema/](https://www.linkedin.com/in/rafaelbcrema/)
+**Email:** rafael.crema333@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/rafaelbcrema/](https://www.linkedin.com/in/rafaelbcrema/)
