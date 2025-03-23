@@ -1,10 +1,10 @@
 ## ★ About Me  
-Hello! I'm **Rafael**, a Computer Science student at **University of Vila Velha (UVV)**.  
-I am fluent in **English** and **Portuguese** and always eager to explore new technologies,  
+Hello ! I'm Rafael, a Computer Science student at University of Vila Velha (UVV).  
+I am fluent in English and Portuguese and always eager to explore new technologies,  
 improve my coding skills, and take on new challenges.  
 
-I live in **Brazil** and have a strong passion for **solving logical problems** and **game development**.  
-Currently, I am working on projects in **Unity**.   
+I live in Brazil and have a strong passion for solving logical problems and game development.  
+Currently, I am plannign projects in Unity and studying ! .   
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
@@ -20,7 +20,7 @@ Currently, I am working on projects in **Unity**.
 
 ## ⚡ GitHub Stats  
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default)  
 
